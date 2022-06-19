@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445319702608",
+    "project_id": "reservasi-oyo",
+    "storage_bucket": "reservasi-oyo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445319702608:android:dcab7579545ea466bf8955",
+        "android_client_info": {
+          "package_name": "com.hoteloyo.reservasi_hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445319702608-uoe9p70ak9ib187tft3e32vcbpqao3df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFIm4BOkuOfu1nkhdT9xD4XAT8PRLt8GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445319702608-uoe9p70ak9ib187tft3e32vcbpqao3df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
